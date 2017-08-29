@@ -1,6 +1,7 @@
 # SayItForMe
 A simple text to speech app available on the App Store.
 
+![ScreenShot of App](https://github.com/egodevrjm/SayItForMe/blob/master/Image-25-08-2017-21-35.png)
 
 I created this app because a family member lost their voice and kept holding up their notes app for us to read. Now they can just type it in, press the microphone and have their phone read it.
 
